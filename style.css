@@ -29,6 +29,7 @@ h2{
 }
 section{
     height: 500px;
+    padding-bottom: 180px;
 }
 .link-button{
     color: white;
@@ -45,11 +46,13 @@ section{
 }
 .single-experience{
     box-shadow: 10px 10px 50px gray;
-    border-radius: 20px;
+    border-radius: 10px;
+    height: 80%;
 }
 .experience-area{
     background-image: url("images/exp-bg.png");
     background-repeat: no-repeat;
+    background-position: left;
 }
 #full-stack{
     border-left:7px solid;
